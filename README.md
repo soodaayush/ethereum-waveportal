@@ -1,15 +1,19 @@
-# Basic Sample Hardhat Project
+# Ethereum WavePortal
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+![buildspace](https://github.com/user-attachments/assets/5732eb1c-35b9-4a2d-af0f-33965fc0ff2d)
 
-Try running some of the following tasks:
+## Inspiration
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This is a project created by Buildspace called "Build a Web3 App with Solidity", which I decided to take on and create.
+
+## Challenges Faced
+
+Understanding the intracacies of the Ethereum blockchain.
+
+## Lessons Learned
+
+I understood the fundamentals of the Ethereum blockchain. I also learned about writing, deploying, and interacting with smart contracts created through Solidity.
+
+## The Website
+
+This website is a decentralized application (dApp) built using Solidity and the Ethereum blockchain, designed to showcase the fundamentals of Web3 development by enabling users to interact with smart contracts through a user-friendly interface.
