@@ -8,7 +8,7 @@ This is a project created by Buildspace called "Build a Web3 App with Solidity",
 
 ## Challenges Faced
 
-Understanding the intracacies of the Ethereum blockchain.
+Understanding the intricacies of the Ethereum blockchain.
 
 ## Lessons Learned
 
